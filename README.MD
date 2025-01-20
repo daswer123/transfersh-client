@@ -1,5 +1,5 @@
 # Transfer.sh Client
-  
+
 `transfersh-client` is a Python library designed to upload files to [transfer.sh](https://github.com/dutchcoders/transfer.sh) servers. It supports both public transfer.sh instances and self-hosted servers, provided that the server is already running.
 
 ## Features
@@ -12,10 +12,10 @@
 
 ## Installation
 
-Install `transfer-sh-client` via `pip`:
+Install `python-transfer-sh` via `pip`:
 
 ```bash
-pip install transfer-sh-client
+pip install python-transfer-sh
 ```
 
 ## Usage
